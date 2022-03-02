@@ -2,4 +2,4 @@
 - 👀 I’m interested in Android, Kotlin, SQL, Network freedoms
 - 🌱 I’m currently learning Kotlin, Python
 - 💞️ I’m looking to collaborate on BLE Messenger, VPN Services
-- 📫 How to reach me: https://vk.com/alexilichov ✨ alex.ilyichev80@gmail.com ✨
+- 📫 How to reach me: https://t.me/alexilyich ✨ https://vk.com/alexilichov ✨ alex.ilyichev80@gmail.com ✨
